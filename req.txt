@@ -1,6 +1,6 @@
-opencv-python==4.7.0
-flask==2.2.5
-cvzone==1.5.6
-flask-cors==3.0.10
+opencv-python
+flask
+cvzone
+flask-cors
 gunicorn
 
