@@ -1,5 +1,5 @@
 Flask
-cv2
+opencv
 pickle
 numpy
 flask-cors
