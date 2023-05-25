@@ -1,0 +1,18 @@
+{
+   "name": "parkingDetector",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "python apiFlask.py"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/OmarMoAbdul/parkingDetector.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/OmarMoAbdul/parkingDetector/issues"
+    },
+    "homepage": "https://github.com/OmarMoAbdul/parkingDetector#readme"
+}
