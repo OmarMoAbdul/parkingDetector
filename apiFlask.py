@@ -13,7 +13,7 @@ CORS(app)
 
 
 # video feed
-cap = cv2.VideoCapture('carPark.mp4')
+cap = cv2.VideoCapture(0)
 
 with open('CarParkPos', 'rb') as f:
     posList = pickle.load(f)
